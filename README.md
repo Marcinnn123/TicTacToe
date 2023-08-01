@@ -31,7 +31,3 @@ The main components of the project are as follows:
 The game starts with an empty 3x3 grid. Players take turns placing their symbols (X or O) on the board by clicking on the squares. The game checks for a win condition after each move and also detects if the game is a tie.
 
 The game will display a congratulatory message to the winning player and reset the board when a game is won or tied.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
